@@ -1,0 +1,26 @@
+{
+  "name": "tolds955",
+  "version": "1.0.0",
+  
+  "description": "common toolkit", 
+  "keywords": ["utils", "format", "money", "phone"], 
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tolds955/github2.git"
+  },
+  "license": "ISC", 
+  "main": "index.js", 
+  "scripts": {
+    
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+  	"df235749": "^1.0.0",
+	"mc148906": "^1.0.0",
+  	"guzibiji": "^1.0.0"
+  },
+  "devDependencies": {
+    
+  }
+
+}
